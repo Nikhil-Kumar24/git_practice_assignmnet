@@ -28,3 +28,23 @@ if(str == new_str)
 console.log("yes string is palindrome");
 }
 
+// prime
+
+let prime =0;
+    for(let i=1;i<=num;i++){
+        if(num%i==0)
+        
+        prime++;
+    }
+    if(prime==2){
+        console.log("Yes")
+        
+    }
+    else{
+        console.log("No")
+    }
+
+//palindrome
+
+
+
